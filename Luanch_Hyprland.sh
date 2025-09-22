@@ -1,0 +1,3 @@
+export XDG_SESSION_TYPE=wayland
+export WLR_NO_HARDWARE_CURSORS=1
+Hyprland
